@@ -1,3 +1,3 @@
-# startup-of-the-year
-Starter project!
-*visist https://zerotomastery.io/ for more*
+# My New Portfolio
+Coming Soon!
+*visit https://joshlangfield.my.canva.site for my current portfolio*
