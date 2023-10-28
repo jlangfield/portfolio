@@ -22,13 +22,13 @@ hr {
 }
 
 h1 {
-  font-size: 3rem; 
+  font-size: 6rem;
   color: #d940a8;
   font-family: 'DM Serif Display', serif;
 }
 
 .buffer {
-  height: 10rem;
+  height: 5rem;
 }
 
 .btn {
